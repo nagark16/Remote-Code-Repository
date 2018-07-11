@@ -1,0 +1,1 @@
+devenv RepositoryApp.sln /rebuild debug

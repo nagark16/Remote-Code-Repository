@@ -1,0 +1,17 @@
+#pragma once
+
+
+#include <iostream>
+
+namespace Repository {
+	class Version {
+	public:
+		static void identify(std::ostream& out = std::cout);
+	};
+
+	void Version::identify(std::ostream& out)
+	{
+		out << "\n  \"" << __FILE__ << "\"";
+		out << " -- This package will manages verion of files checkedin to repository";
+	}
+}

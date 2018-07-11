@@ -1,0 +1,20 @@
+#pragma once
+
+
+#include <iostream>
+
+namespace Repository {
+	class CheckIn {
+	public:
+		static void identify(std::ostream& out = std::cout);
+	};
+
+	void CheckIn::identify(std::ostream& out)
+	{
+		out << "\n  \"" << __FILE__ << "\"";
+		out << " -- This will provides the functionality to start a new package version"
+			<<"\n\t by accepting files, appending version numbers to their filenames, "
+			<<"\n\t providing dependency and category information, creating metadata, "
+			<<"\n\t and storing the files in a designated location";
+	}
+}

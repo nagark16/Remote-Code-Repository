@@ -1,0 +1,16 @@
+#pragma once
+
+#include <iostream>
+
+namespace Repository {
+	class RepositoryCore {
+	public:
+		static void identify(std::ostream& out = std::cout);
+	};
+
+	void RepositoryCore::identify(std::ostream& out)
+	{
+		out << "\n  \"" << __FILE__ << "\"";
+		out << " -- This provides means to check-in, version, browse, and check-out source code packages";
+	}
+}

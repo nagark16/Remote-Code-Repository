@@ -1,0 +1,16 @@
+#pragma once
+
+#include <iostream>
+
+namespace Repository {
+	class Browse {
+	public:
+		static void identify(std::ostream& out = std::cout);
+	};
+
+	void Browse::identify(std::ostream& out)
+	{
+		out << "\n  \"" << __FILE__ << "\"";
+		out << " -- This will provide capability to locate files and also view their contents";
+	}
+}

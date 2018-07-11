@@ -1,0 +1,17 @@
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\bin\x86\Debug\Translater.dll
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\bin\x86\Debug\Translater.pdb
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\App.g.cs
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\MainWindow.baml
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Learning\Syracuse\OOD\HelperCOde\Project3HelpWPF\GUI\obj\x86\Debug\WpfApp1.pdb

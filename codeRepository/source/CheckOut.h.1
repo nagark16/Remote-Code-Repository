@@ -1,0 +1,17 @@
+#pragma once
+
+
+#include <iostream>
+
+namespace Repository {
+	class CheckOut {
+	public:
+		static void identify(std::ostream& out = std::cout);
+	};
+
+	void CheckOut::identify(std::ostream& out)
+	{
+		out << "\n  \"" << __FILE__ << "\"";
+		out << "This will retrieve package files, remove version from the filenames and copy files to a destination folder";
+	}
+}
